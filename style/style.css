@@ -83,7 +83,7 @@ main{
     --font-color: #323232;
     --bg-color: #e0e0e0;
     width: 250px;
-    height: 350px;
+    height: 410px;
     border-radius: 20px;
     background: var(--bg-color);
     box-shadow: -9px 9px 18px #5a5a5a,
@@ -104,7 +104,6 @@ main{
     height: 100%;
     object-fit: cover;
     border-radius: 20px 20px 0 0;
-    background-color: blueviolet;
   }
   
   .card__descr-wrapper {
@@ -150,8 +149,8 @@ main{
   }
   
   .img-cards{
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
     width: 15.5rem;
-    height: 7rem;
+    height: 9rem;
   }
