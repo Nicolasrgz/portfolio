@@ -21,8 +21,15 @@ header, footer{
     min-height: 10vh;
 }
 
+
 main{
     min-height: 80vh;
+}
+
+.img-entrada{
+  width: 28rem;
+  height: 20rem;
+  border-radius: 10px;
 }
 
 .btn {
@@ -159,6 +166,10 @@ main{
     width: 8rem;
     transition: width 0.5s ease;
 }
-.img-iconos-it:hover{
+/* .img-iconos-it:hover{
     width: 8.5rem;
+} */
+
+.img-iconos-contact{
+  width: 6rem;
 }
