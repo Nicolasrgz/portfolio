@@ -166,10 +166,11 @@ main{
     width: 8rem;
     transition: width 0.5s ease;
 }
-/* .img-iconos-it:hover{
-    width: 8.5rem;
-} */
 
 .img-iconos-contact{
   width: 6rem;
+}
+
+#proyectos{
+  margin-top: 10rem;
 }
