@@ -33,6 +33,14 @@ main{
   border-radius: 10px;
 }
 
+@media only screen and (min-width: 513px) and (max-width: 320){
+  .img-entrada{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 10px;
+  }
+}
+
 .btn {
     font-size: 17px;
     background: transparent;
